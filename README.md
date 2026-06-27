@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-abschied-fur-immer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ein Abschied für immer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-abschied-fur-immer/) |
+| **Get License** | [License this song: Ein Abschied für immer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-abschied-fur-immer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ein Abschied für immer vom Lärm dieser Welt
+> Wir cruisen durchs Dunkel, wo nur noch das zählt
+> Dein Blick ist gefährlich, verlier' die Control
+> Du bist meine Queen, Baby, mein Monopol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 27, 2026 |
+| **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
